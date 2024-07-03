@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **swethamandela@gmail.com**
 
-- ⚡ Fun fact **I love Curd with Boost!!**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
