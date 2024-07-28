@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **swethamandela@gmail.com**
 
-- ⚡ Fun fact ****
+- ⚡ Fun fact **I'm actually a Fun person🤷‍♀️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
