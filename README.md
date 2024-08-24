@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Swetha</h1>
-<h3 align="center">A data enthusiast on a journey to decode the numbers, gather insights and help businesses..</h3>
+<h1 align="center">💫About Me: </h1>
 
-- 🌱 I’m currently learning **Data Science/Analytics Tools**
-
-- 👯 I’m looking to collaborate on **Data Science & Machine Learning projects**
-
-- 📫 How to reach me **swethamandela@gmail.com**
-
-- ⚡ Fun fact **I'm actually a Fun person🤷‍♀️**
+- Passionate about deriving insights from data to enhance and inform decision-making.
+-  I’m currently learning Data Science/Analytics Tools
+-  I’m looking to collaborate on Data Analytics/Visualization projects
+-  Reach out to me on swethamandela@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
